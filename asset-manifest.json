@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Khem-Portfolio/static/css/main.debe95ac.css",
+    "main.js": "/Khem-Portfolio/static/js/main.61556526.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Khem-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/online-library.png": "/Khem-Portfolio/static/media/online-library.30491f224f409a94b98a.png",
+    "static/media/Deja-brew.png": "/Khem-Portfolio/static/media/Deja-brew.86ca486086f99d501a12.png",
+    "static/media/ci-paws.png": "/Khem-Portfolio/static/media/ci-paws.d7d1bbf1aaff5dcbaccf.png",
+    "static/media/health.png": "/Khem-Portfolio/static/media/health.10a9ac753e12859ec1f2.png",
+    "static/media/online-book-store.png": "/Khem-Portfolio/static/media/online-book-store.c945c9949c1d3c79096a.png",
+    "static/media/Frances_Resume.pdf": "/Khem-Portfolio/static/media/Frances_Resume.5f4e9204fab4ff3ee4e2.pdf",
+    "static/media/fkad.jpg": "/Khem-Portfolio/static/media/fkad.62f50eb4fbf3d92a7001.jpg",
+    "static/media/rock-paper-scissor.png": "/Khem-Portfolio/static/media/rock-paper-scissor.fba304c96feef82387e2.png",
+    "static/media/todo-list.png": "/Khem-Portfolio/static/media/todo-list.1715838822919a844257.png",
+    "static/media/my-logo.png": "/Khem-Portfolio/static/media/my-logo.52eadfe46c6d8312da38.png",
+    "static/media/expressjs.png": "/Khem-Portfolio/static/media/expressjs.e3d4f9e5c8b469e45838.png",
+    "index.html": "/Khem-Portfolio/index.html",
+    "main.debe95ac.css.map": "/Khem-Portfolio/static/css/main.debe95ac.css.map",
+    "main.61556526.js.map": "/Khem-Portfolio/static/js/main.61556526.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Khem-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.debe95ac.css",
+    "static/js/main.61556526.js"
+  ]
+}
